@@ -1,0 +1,25 @@
+﻿1CV8LOG(ver 2.0)
+824ed83b-9581-499f-bebf-b97b02f3c921
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"SANDR-MI",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,accac8c0-070e-49e6-b169-6f081b4573df,"",1},
+{5,e65df106-85fb-4141-8aea-40e2ed0217c2,"",2},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",7},
+{4,"_$Data$_.New",8},
+{5,e65df106-85fb-4141-8aea-40e2ed0217c2,"Справочник.Контрагенты",2},
+{4,"_$Transaction$_.Commit",9},
+{5,accac8c0-070e-49e6-b169-6f081b4573df,"Справочник.Номенклатура",1},
+{4,"_$Session$_.Finish",10},
+{4,"_$Data$_.Update",11},
+{5,b695d467-d796-422f-9cd0-8389a3a4eb7f,"РегистрСведений.ХранилищеКартинок",3},
+{3,"BackgroundJob",3}
