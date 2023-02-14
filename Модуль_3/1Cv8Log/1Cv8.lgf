@@ -1,5 +1,5 @@
 ﻿1CV8LOG(ver 2.0)
-25f88c8e-8326-40e2-956d-b1468edaeee7
+5d49a100-03fa-4878-ac1e-7fccef51aa03
 
 {1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
 {2,"WS203",1},
@@ -14,12 +14,18 @@
 {4,"_$Session$_.Finish",6},
 {4,"_$PerformError$_",7},
 {3,"1CV8",3},
-{3,"BackgroundJob",4},
 {4,"_$InfoBase$_.PredefinedDataUpdate",8},
-{5,daa7ea8b-52ab-4b27-a212-c6c1e4377607,"",1},
+{5,091adca9-e718-4862-8a9f-a64204627549,"",1},
 {4,"_$Transaction$_.Begin",9},
 {4,"_$Data$_.New",10},
-{5,daa7ea8b-52ab-4b27-a212-c6c1e4377607,"Справочник.Номенклатура",1},
+{5,091adca9-e718-4862-8a9f-a64204627549,"Справочник.Номенклатура",1},
 {4,"_$Transaction$_.Commit",11},
-{4,"_$InfoBase$_.RestoreStart",12},
-{4,"_$InfoBase$_.RestoreError",13}
+{3,"BackgroundJob",4},
+{4,"_$InfoBase$_.DBConfigUpdateError",12},
+{4,"_$InfoBase$_.ConfigExtensionUpdate",13},
+{4,"_$InfoBase$_.DBConfigExtensionUpdate",14},
+{5,c737ce0d-7a63-49fe-9040-c8a7675094c0,"",2},
+{4,"_$Access$_.Access",15},
+{5,c737ce0d-7a63-49fe-9040-c8a7675094c0,"РаботаСКартинками: Справочник.РК_НазначениеКартинки",2},
+{4,"_$Data$_.Update",16},
+{5,003af598-37fe-438c-ad35-b8d202d79043,"РаботаСКартинками: РегистрСведений.РК_КартинкаПредметаУчета",3}
